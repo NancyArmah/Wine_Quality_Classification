@@ -4,7 +4,7 @@ The goal of this task is to train a model that can accurately predict the qualit
 
 ### Data 
 
-Source - ![Kaggle](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
+Source - [Kaggle](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
 
 The dataset is clean hence no extra cleaning is needed to work with it. 
 
