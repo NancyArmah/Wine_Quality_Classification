@@ -12,4 +12,12 @@ The Number of unique categories in our target variable wine is 6. Wine records h
 
 Also, some features in the dataset were highly skewed and needed to be normalized using the np.log function.
 
+### Modelling
+
+Before building the models, the data is first balanced using SMOTE to oversample the minority class. Next is to use cross validation to evaluate the selected models to choose the best model for this classification project.
+
+| Model | Cross Validation Score |
+|---|---|
+| Logistic Regression |  |
+| Logistic Regression |  |
 
