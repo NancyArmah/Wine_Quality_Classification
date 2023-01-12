@@ -18,6 +18,8 @@ Before building the models, the data is first balanced using SMOTE to oversample
 
 | Model | Cross Validation Score |
 |---|---|
-| Logistic Regression |  |
-| Logistic Regression |  |
-
+| Logistic Regression | 58% |
+| KNN | 78% |
+| Decision Tree | 76% |
+| Gaussian NB | 52% |
+| Random Forest | 85% |
