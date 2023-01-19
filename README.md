@@ -28,4 +28,4 @@ The best model based on cross-validation score is the Random Forest. After fitti
 
 The model was optimized using Gridsearch and achieved an accuracy of 88.10% which is not a significant improvement from 87.93%.
 
-### ![Article](https://medium.com/@nancy_24398/wine-quality-classification-fc4f945c6c00) 
+### [Article](https://medium.com/@nancy_24398/wine-quality-classification-fc4f945c6c00) 
