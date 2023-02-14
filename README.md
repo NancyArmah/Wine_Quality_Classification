@@ -27,3 +27,5 @@ Before building the models, the data is first balanced using SMOTE to oversample
 The best model based on cross-validation score is the Random Forest. After fitting the data to the model, it achieved an accuracy of 87.93% and an f1_score of 87.70%.
 
 The model was optimized using Gridsearch and achieved an accuracy of 88.10% which is not a significant improvement from 87.93%.
+
+### [Article](https://medium.com/@nancy_24398/wine-quality-classification-fc4f945c6c00) 
